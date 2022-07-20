@@ -48,5 +48,3 @@ jobs:
       run: cmd /c start.bat
 
     - name: win10 RDP.
-
-      run: cmd /c loop.bat
